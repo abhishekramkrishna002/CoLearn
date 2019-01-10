@@ -21,7 +21,20 @@ const colors = {
   eggplant: '#251a34',
   border: '#483F53',
   banner: '#5F3E63',
-  text: '#E0D7E5'
+  text: '#E0D7E5',
+  black: '#000000',
+  white: '#FFFFFF',
+  primary: '#009688',
+  primaryDark: '#00796B',
+  primaryLight: '#B2DFDB',
+  accent: '#FFA6AB',
+  primaryText: '#212121',
+  secondaryText: '#757575',
+  icons: '#FFFFFF',
+  dicider: '#BDBDBD',
+  bookItemBackgroundColor: ['#b784a7', '#58B8A6', '#70296E', '#50516F', '#045A5E'],
+  imageBackground: '#cfcfc4',
+  pasteColorPalette: ['#74387B','#223E4A','#B280BB','#0A5F66','#28252D','#6F2880','#f18e97','#f5ecb4','#a06e91']
 }
 
 export default colors

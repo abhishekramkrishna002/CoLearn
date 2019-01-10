@@ -1,4 +1,4 @@
-import * as React from 'react'
+import React from 'react'
 import { BackHandler, Platform } from 'react-native'
 import {
   createReactNavigationReduxMiddleware,

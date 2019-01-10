@@ -58,3 +58,7 @@ buck-out/
 # Misc
 #
 .env
+
+
+# google keys
+*google-services.json

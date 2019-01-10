@@ -10,9 +10,9 @@ const size = {
   h3: 30,
   h4: 26,
   h5: 20,
-  h6: 19,
+  h6: 18,
   input: 18,
-  regular: 17,
+  regular: 16,
   medium: 14,
   small: 12,
   tiny: 8.5
@@ -50,6 +50,12 @@ const style = {
   description: {
     fontFamily: type.base,
     fontSize: size.medium
+  },
+  bold: {
+    fontWeight: 'bold'
+  },
+  center:{
+    textAlign: 'center'
   }
 }
 
